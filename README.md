@@ -118,7 +118,44 @@ This case study documents how I operationalized **1:few ABM** with **6sense** in
 - Feed **wins + learnings** back into 6sense **Keyword** tracking and content roadmap
 
 ---
-Shivhoysala 2025, all rights reserved, do not duplicate.
+
+---
+
+## KPIs & Dashboards
+
+- **Account**: Fit, Stage, Surge, MQAs/week, multi-persona engagement
+- **Conversion**: MQL→SQL, SQL→Opp, Opp→Win, stage velocity (days)
+- **Economics**: CPL, CAC proxy, Pipeline Influence, Incremental Lift
+- **Enablement**: SLA adherence (24h/72h), sequence completion, reply rates
+
+---
+
+## What I’d Improve Next
+
+- Add **programmatic direct mail** for late-stage nudges in 1:few pods  
+- Expand **topic taxonomy** in 6sense to capture adjacent pains (e.g., “data quality,” “governance”)  
+- Introduce **Offer-level experiments** (ROI calc vs. benchmark vs. roundtable) with holdouts  
+- Deeper **Salesforce Campaign Influence** tuning (touch decay, persona weighting)
+
+---
+
+## Common Pitfalls (and how I avoided them)
+
+- **Chasing high intent with no whitespace** → filter for **expansion potential** in SFDC  
+- **Persona mismatch** → built separate talk-tracks per role; enforced via SDR sequences  
+- **Last-touch bias** → ran **incrementality** with matched controls  
+- **SLA drift** → Slack alerts + weekly pod scorecards
+
+---
+
+## Compliance & Notes
+
+- All data and client references are **sanitized/anonymized**.  
+- Percentages and financials reflect directional outcomes consistent with enterprise 1:few ABM programs.
+
+---
+
+© 2025 Shiv Hoysala- all rights reserved, do not duplicate.
 hoysala.shiv@gmail.com
-## Architecture (Simplified)
+
 
