@@ -1,5 +1,5 @@
 # -1-few-ABM-scale-piple-line-framework-using-6Sense
-This case study documents how I operationalized **1:few ABM** with **6sense** intent data to prioritize accounts, coordinate plays with Sales, and attribute impact—growing influenced pipeline to **$12M** across APAC and US and lifting **MQL→SQL** conversion from **8% → 24%**.
+This case study documents how I operationalized **1:few ABM** with **6sense** intent data to prioritize accounts, coordinate plays with Sales, and attribute impact—growing influenced pipeline to **$5M** across APAC and US and lifting **MQL→SQL** conversion from **8% → 24%**.
 
 > **Stack:** 6sense • Salesforce • HubSpot/Marketo • LinkedIn Ads • Google Ads • Tableau/Power BI • Slack/Outreach  
 > **Framework:** Identify → Prioritize → Engage → Enable → Convert → Attribute → Expand
@@ -8,7 +8,7 @@ This case study documents how I operationalized **1:few ABM** with **6sense** in
 
 ## 🎯 Outcomes (TL;DR)
 
-- **$12M influenced pipeline** (Tier-2 1:few cluster across APAC & US)
+- **$5M influenced pipeline** (Tier-2 1:few cluster across APAC & US)
 - **MQL→SQL** conversion **+16 pts** (8% → 24%) in two quarters  
   > Benchmarks: enterprise B2B typically sees **10–20%** MQL→SQL; >20% is strong for named-account programs
 - **+34% win-rate** on opportunities flagged by ≥35% intent-surge cohorts
